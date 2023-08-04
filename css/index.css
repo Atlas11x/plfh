@@ -50,7 +50,12 @@ button:active {
 }
 
 .button-left{
-    margin-left: 525;
+    margin-left: 630;
     margin-top: 75;
+}
+
+.button-right{
+    margin-left: 60;
+    background: rgb(67, 67, 233);
 }
 
