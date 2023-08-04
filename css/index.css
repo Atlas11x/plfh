@@ -57,5 +57,6 @@ button:active {
 .button-right{
     margin-left: 60;
     background: rgb(67, 67, 233);
+    padding: 0.5em 2.1em;
 }
 
