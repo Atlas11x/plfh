@@ -43,6 +43,7 @@ button{
     border: 5px solid #3c3a3a;
     background: #10ea0c;
     padding: 0.5em 1.5em; 
+    align-content: center;
 }
 
 button:active {
@@ -60,3 +61,45 @@ button:active {
     padding: 0.5em 2.1em;
 }
 
+.buttonHome{
+    background: #5b5b5b;
+    margin-top: 75;
+    margin-left: 75;
+    padding: .4em 1.2em;
+}
+
+.button2{
+    background: #83e002;
+    margin-top: 10;
+    padding: .5em 1.4em;
+}
+
+.button3{
+    background-color: #b7bd02;
+    margin-top: 10;
+    padding: .5em 1.4em;
+}
+
+.button4{
+    background-color: #bd9402;
+    margin-top: 10;
+    padding: .5em 1.25em;
+}
+
+.button5{
+    background-color: #bd7202;
+    margin-top: 10;
+    padding: .5em 1.35em;
+}
+
+.button6{
+    background-color: #bd4302;
+    margin-top: 10;
+    padding: .5em 2.55em;
+}
+
+.button7{
+    background-color: #bd1502;
+    margin-top: 10;
+    padding: .5em 0.555em;
+}
