@@ -105,6 +105,13 @@ button:active {
 }
 
 .button-st-program{
-    margin-left: 1097;
+    margin-left: 1100;
     margin-top: -655
+}
+
+.curve{
+	/* font-family: 'Biro Script Plus'; */
+	font-family: 'russianDoctor';
+	text-transform: none;	
+	color: #3A4482;
 }
